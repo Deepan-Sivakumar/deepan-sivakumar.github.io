@@ -86,7 +86,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Email**: deepanvelu3@gmail.com
 - **LinkedIn**: [linkedin.com/in/deepan-sivakumar](https://www.linkedin.com/in/deepan-sivakumar)
-- **Phone**: +91 7010911863
 
 ---
 
